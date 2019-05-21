@@ -1,6 +1,6 @@
 # FaceDetector
 
-First clone or download project from thr github.
+First clone or download project from the github.
 
 open the project in Android studio and sync gradle files once.
 
