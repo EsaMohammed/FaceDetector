@@ -18,5 +18,7 @@ If no face detect during button click it will throw error message.
 
 Sample output image is attached with the project folder.
 
+![Preview](sampleoutput.jpg)
+
 
 
