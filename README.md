@@ -15,3 +15,8 @@ To detect face points we used google vision sdk.
 When you click save button it will save the corresponding face points cropped image.
 
 If no face detect during button click it will throw error message.
+
+Sample output image is attached with the project folder.
+
+
+
